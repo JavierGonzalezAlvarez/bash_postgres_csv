@@ -1,0 +1,18 @@
+------------------------------------------------------------
+execution date: 2023-01-13-11-47-38 - 2023-01-13-11-47-53 
+load file ./files/data_v1/tmp/data_2023-01-13-11-47-38.csv
+end loading data from - data_load - is loaded? (Result: true/false, false means already loaded): true
+log_collect_file  - ./logs/data_l1_load_csv.log
+data_dir - instance folder (data_v1/data_v2) - ./files/data_v1
+target file - ./files/data_v1/2023-01-13/
+file created- 
+intermediate_file - ./files/data_v1/tmp/data_2023-01-13-11-47-38.csv
+------------------------------------------------------------
+execution date: 2023-01-13-11-47-57 - 2023-01-13-11-48-03 
+load file ./files/data_v1/tmp/data_2023-01-13-11-47-57.csv
+end loading data from - data_load - is loaded? (Result: true/false, false means already loaded): true
+log_collect_file  - ./logs/data_l1_load_csv.log
+data_dir - instance folder (data_v1/data_v2) - ./files/data_v1
+target file - ./files/data_v1/2023-01-13/bbb523a3b65525dff20b7b9dc2fb4984
+file created- bbb523a3b65525dff20b7b9dc2fb4984
+intermediate_file - ./files/data_v1/tmp/data_2023-01-13-11-47-57.csv

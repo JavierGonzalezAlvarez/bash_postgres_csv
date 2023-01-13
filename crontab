@@ -1,0 +1,2 @@
+#run the script each 15'
+*/15 * * * * /bin/bash /home/rtpf/bin/load_data.sh -i 1 -s data --load > /dev/null 2>&1
